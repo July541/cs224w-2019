@@ -3,4 +3,10 @@
 ## TODO
  - [x] 1. Introduction; Structure of Graphs
  - [x] Homework 0
- - [ ] 2. Properties of Networks and Random Graph Models
+ - [x] 2. Properties of Networks and Random Graph Models
+ - [ ] Homework1
+    - [x] Question 1 (Finished)
+    - [ ] Question 2 (till the 3rd lecture)
+    - [ ] Question 3 (till the 4th lecture)
+    - [ ] Question 4 (till the 5th lecture)
+ - [ ] 3. Motifs and Structural Roles in Networks
