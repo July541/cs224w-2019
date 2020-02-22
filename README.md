@@ -6,7 +6,8 @@
  - [x] 2. Properties of Networks and Random Graph Models
  - [ ] Homework1
     - [x] Question 1 (Finished)
-    - [ ] Question 2 (till the 3rd lecture)
+    - [x] Question 2 (Finished)
     - [ ] Question 3 (till the 4th lecture)
     - [ ] Question 4 (till the 5th lecture)
- - [ ] 3. Motifs and Structural Roles in Networks
+ - [x] 3. Motifs and Structural Roles in Networks
+ - [ ] 4. Community Structure in Networks
