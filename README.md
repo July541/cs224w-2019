@@ -10,4 +10,6 @@
     - [ ] Question 3 (till the 4th lecture)
     - [ ] Question 4 (till the 5th lecture)
  - [x] 3. Motifs and Structural Roles in Networks
- - [ ] 4. Community Structure in Networks
+ - [x] 4. Community Structure in Networks
+ - [ ] Recitation: Review of Linear Algebra, Probability, and Proof Techniques
+ - [ ] 5. Spectral Clustering
